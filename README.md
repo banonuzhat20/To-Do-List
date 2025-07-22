@@ -1,4 +1,4 @@
-To-Do List App
+📝To-Do List App📝
 
 Overview
 
@@ -6,16 +6,16 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 
 Features
 
-- Add new tasks
-- Remove existing tasks
-- Mark tasks as completed
-- Responsive design
+✒️ Add new tasks
+✒️ Remove existing tasks
+✒️ Mark tasks as completed
+✒️ Responsive design
 
 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+👩🏻‍💻 HTML5
+👩🏻‍💻 CSS3
+👩🏻‍💻 JavaScript
 
 
 
